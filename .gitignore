@@ -1,0 +1,13 @@
+*.swp
+*.swo
+*.log
+/conf/
+/swagger/
+/kubernetes/*.yaml
+/test/scripts/*.sh
+debug
+node_modules
+.DS_Store
+.idea
+.vscode
+node_modules
